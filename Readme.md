@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Роман Еременко](https://up.htmlacademy.ru/adaptive/25/user/674811).
-* Наставник: `Арсений Матыцин`(https://htmlacademy.ru/profile/id225539).
+* Наставник: [Арсений Матыцин](https://htmlacademy.ru/profile/id225539).
 
 ---
 
